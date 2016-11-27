@@ -1,0 +1,41 @@
+﻿Assembly P:\Downloads\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpService.exe wird installiert.
+Betroffene Parameter:
+   assemblypath = P:\Downloads\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpService.exe
+   logfile = P:\Downloads\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpService.InstallLog
+Dienst Ds3Service wird installiert...
+Dienst Ds3Service wurde installiert.
+Die EventLog-Quelle Ds3Service im Protokoll Application wird erstellt...
+Die Protokolldatei enthält den Fortschritt der Assembly P:\Downloads\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpService.exe.
+Die Datei befindet sich in P:\Downloads\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpService.InstallLog.
+Assembly P:\Downloads\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   assemblypath = P:\Downloads\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpService.exe
+   logfile = P:\Downloads\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpService.InstallLog
+Assembly C:\Users\chris\Desktop\GamePad Controlls in OpenGL\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpService.exe wird installiert.
+Betroffene Parameter:
+   assemblypath = C:\Users\chris\Desktop\GamePad Controlls in OpenGL\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpService.exe
+   logfile = C:\Users\chris\Desktop\GamePad Controlls in OpenGL\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpService.InstallLog
+Dienst Ds3Service wird installiert...
+Die EventLog-Quelle Ds3Service im Protokoll Application wird erstellt...
+Assembly C:\Users\chris\Desktop\GamePad Controlls in OpenGL\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpService.exe wird deinstalliert.
+Betroffene Parameter:
+   assemblypath = C:\Users\chris\Desktop\GamePad Controlls in OpenGL\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpService.exe
+   logfile = C:\Users\chris\Desktop\GamePad Controlls in OpenGL\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpService.InstallLog
+Die EventLog-Quelle Ds3Service wird entfernt.
+Der Dienst Ds3Service wird vom System entfernt...
+Dienst Ds3Service wurde vom System entfernt.
+Assembly C:\Users\chris\Desktop\GamePad Controlls in OpenGL\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpService.exe wird installiert.
+Betroffene Parameter:
+   assemblypath = C:\Users\chris\Desktop\GamePad Controlls in OpenGL\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpService.exe
+   logfile = C:\Users\chris\Desktop\GamePad Controlls in OpenGL\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpService.InstallLog
+Dienst Ds3Service wird installiert...
+Dienst Ds3Service wurde installiert.
+Die EventLog-Quelle Ds3Service im Protokoll Application wird erstellt...
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\chris\Desktop\GamePad Controlls in OpenGL\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpService.exe.
+Die Datei befindet sich in C:\Users\chris\Desktop\GamePad Controlls in OpenGL\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpService.InstallLog.
+Assembly C:\Users\chris\Desktop\GamePad Controlls in OpenGL\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   assemblypath = C:\Users\chris\Desktop\GamePad Controlls in OpenGL\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpService.exe
+   logfile = C:\Users\chris\Desktop\GamePad Controlls in OpenGL\SCP-DS-Driver-Package-1.2.0.160\ScpServer\bin\ScpService.InstallLog
